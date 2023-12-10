@@ -1,0 +1,53 @@
+body{
+    background-color: red;
+    
+}
+form{
+    
+    
+    padding: 10px;
+    color: white;
+}
+.djed{
+    width: 30%;
+    height: 600px;
+    position: relative;
+    left: 35%;
+    
+}
+.djed img{
+    width: 100%;
+}
+.djed .text{
+    position: absolute;
+    color: white;
+    left: 20px;
+    top: 10px;
+    font-size: 75px;
+    text-align: center;
+}
+.djedb{
+    
+    right: 600px;
+    bottom: 568px;
+    position: relative;
+}
+.drvo{
+    left: 600px;
+    bottom: 1140px;
+    position: relative;
+}
+article{
+    position: relative;
+    left: 65%;
+    color: white;
+
+}
+.pismo{
+    color: white;
+}
+
+.lopta{
+    position: relative;
+    bottom: 49px;
+}
